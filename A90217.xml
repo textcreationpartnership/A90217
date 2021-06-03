@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The out-cry of the London prentices for justice to be executed upon John Lord Hewson; with their desires and proposalls touching his arraignment. As also a hue-and-cry, or proclamation.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90217</idno><idno type="EEBO-CITATION">99863152</idno>
+  <idno type="VID">168762</idno>
+  <idno type="EEBO-PROQUEST">2240932782</idno>
+  
+            <idno type="STC">Wing O598</idno>
+            <idno type="STC">Thomason E1013_12</idno>
+            <idno type="STC">ESTC R203064</idno>
+            <idno type="PROQUEST">99863152</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863152e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168762)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The out-cry of the London prentices for justice to be executed upon John Lord Hewson; with their desires and proposalls touching his arraignment. As also a hue-and-cry, or proclamation.</title>
+               </titleStmt>
+               <extent>7 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Gustavus Adolphus,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The "hue and cry" is in verse.</note>
+                  <note>P. 8 misnumbered 7.</note>
+                  <note>Annotation on Thomason copy: "Jan: 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Hewson, John, d. 1662 --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168762:1"/>
+            <p>THE OUT-CRY OF THE London Prentices FOR JUSTICE TO BE EXECUTED UPON <hi>JOHN</hi> Lord <hi>HEWSON;</hi> WITH Their desires and Proposalls touching his Arraignment.</p>
+            <p>AS ALSO A Hue-and-cry, OR PROCLAMATION.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>Gustavus Adolphus,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168762:2"/>
+            <pb n="3" facs="tcp:168762:2"/>
+            <head>THE PRENTICES OVTCRY, OR The Arraignment of the Lord <hi>John Hewson,</hi> &amp;c.</head>
+            <p>
+               <hi>SOund Drums and Trumpets! will you buy any Brooms, have you any Boots or Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es to sell?</hi> so cries the noble Lord <hi>Hewson,</hi> Baron of <hi>Bungle Hall,</hi> to his lasting Renown and Honour. <hi>Wat Tyler</hi> was an asse to this Cobler, nor did ever any Rascall presume to strut and vapour up and down the streets of <hi>London</hi> with half the impudence as him. His Master <hi>Oliver</hi> came not in such pride and state, nor sto<g ref="char:EOLhyphen"/>mack to his Dinner at <hi>Grocers-Hall,</hi> as this one-eyed Varlet marcht with insolence and fury to the Exchange to a butche<g ref="char:EOLhyphen"/>ry; and with the same quarrel against the Prentices, as his Comrade <hi>Tom Pride</hi> had against the Beares, meerly for their Skins. He hath formerly been a <hi>Tory-hunter</hi> in <hi>Ireland,</hi> and imagined he had then bin on such an expedition, for he skipt and danced over the kennels, as if they had bin bogs, and pur<g ref="char:EOLhyphen"/>sued his enterprise as closly as ever his cobling ends did his Awle. Hold up his Dagger-hand, lets see whether the Hang<g ref="char:EOLhyphen"/>man have not puncht him, and given him an earnest in his fist for a Halter. Bring him to the Barre of the other House, and
+<pb n="4" facs="tcp:168762:3"/> let him be tryed by his Peers, and see if 12 such Cobaliros can be found among all the Anabaptist Churches that have most of the Trade in Saintship with them; may he have and be fit<g ref="char:EOLhyphen"/>ted with a size of twelves, such Godfathers as the turn will afford him, though there be no heed now adayes to the Com<g ref="char:EOLhyphen"/>mon Prayer in that, yet let regard be had to the common cry of the City. Was the black Rod do you think, ever intended or designed to whip Coblers? or will Princes Robes sit hand<g ref="char:EOLhyphen"/>som on Brewers backs, and yet this goodman two shoes, by a relish and smack of Lordly Dignity, did confidently personate that pretended Honour, and acted not barely as a Lord in his late Riot and Tumult, but usurped the Authority and Power as if he had been our Lord Mayor.</p>
+            <p>We never yet heard of any that assended from his Corpo<g ref="char:EOLhyphen"/>ration to that pitch and height of Magistracy; but we now see the difference betwixt a company of Cordwainers and a company of Re<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ats. 'Twas a marvel this Fellow, with the rest of the ga<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not made Lord Marquesse, when <hi>Olivers</hi> dubbing and en<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ng Hand was in; We imagine that if he had had his other eye, <hi>Oliver</hi> would have done it, for he had need of a hundred eyes ro look to himself.</p>
+            <p>But though the Jewish Law forbids any imperfect Sacrifice to be offered, yet we will not rest nor cease our prosecution, till we have sacrificed this blind Cobler to the Ghosts of our slain, and to the injuries of our wounded Brethren, and in satisfaction of the Outrages and affronts he hath done to us.</p>
+         </div>
+         <div type="text">
+            <pb n="5" facs="tcp:168762:3"/>
+            <head>Here followeth the Desires and Propo<g ref="char:EOLhyphen"/>salls of the <hi>London</hi> Prentices, touch<g ref="char:EOLhyphen"/>ing the Arraignment and Execution of Col. John Hewson.</head>
+            <p n="1">I. THat we may be assured that we shall not be molested in our Callings by <hi>Hewson</hi> the Cobler, lately <hi>Hewson</hi> the Colonel.</p>
+            <p n="2">II. That his Estate may be confiscated towards the maintenance <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f the poor, blind, and lame; and that he be forthwith com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anded, at his peril, to cry Jumps up and down the streets, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd old Shooes and Boots, to humble his haughty spirit, and make him the fitter for Execution.</p>
+            <p n="3">III. That after he hath humbled himself a moneth, he be sent into the City of <hi>London,</hi> and there to stand in the Pillory, un<g ref="char:EOLhyphen"/>til he hath had as many rotten Eggs flung at him, as he hath sowed stitches in Shooes or Boots; and then to be taken down, and tyed to a Cart, and whipped from thence to the place where the Speaker's Coach was stopped, and had stones cast at him by the Souldiery, there to be again Pillorized, and bored through the Tongue for his wicked perjuries.</p>
+            <p n="4">IV. That he be forthwith brought to the Sessions, and there con<g ref="char:EOLhyphen"/>victed according to Law, and being conveighed to Newgate, thence to be carried on a Bull-hide to Tiburn, and there to hang as long as Shooe-making is used in <hi>London.</hi>
+            </p>
+            <pb n="6" facs="tcp:168762:4"/>
+            <p>And therefore we'do demand this <hi>Polyphemus</hi> to be deliver<g ref="char:EOLhyphen"/>ed to Justice, oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rwise we will drag him out of his Den, where he thinks to lurk by benefit of the Parliaments Vote for his confinement to his own house (if any such of right he have) and take our own course with him; and for his greater terror we do here declare the manner of our severe punishment, and exemplary execution, that he may take it for a warning.</p>
+            <p>First, Because they say he was a Knight, we will degrade him of his new gentility, by throwing a Basket of grains in his eye, and pull off his Spurs; and having stript him out of his breeches, give him a hundred blowes on his bare breech with his Coloshoes.</p>
+            <p n="2">2. For his brustling in our streetts, we will with his Awles pierce his hide all over, and put Bristles in the holes, as the old Womans Arse that was stuft with Parsley.</p>
+            <p n="3">3. Being suc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a hide-bound slave, we will put him upon Squire <hi>Duns</hi> Tree, and stretch him till his skin crack again, which we will strip over his eares, and send to <hi>Mol Lovel,</hi> or any other Doxy for a new fashion stuffe, or else cut into Thongs for the Boyes to whip Gigs with, or make <hi>Bartholo<g ref="char:EOLhyphen"/>mew</hi> faire Drums, in memorial of such a Warrior.</p>
+            <p n="4">4. The one good eye he hath left, wee'l take out of his Head, and bestow it upon blind <hi>Milton,</hi> that it may still be worn as an Ornament in a knaves countenance, and when he leaves it, it shall be given to Surgeons Hall for a rarity.</p>
+            <p n="5">5. We will have his Scull well scraped, and preserved for a drinking Bowle for his Brethren to fuddle in on <hi>Crispianas</hi> night.</p>
+            <p n="6">6. We will pick his bones clear, and tip them with the Iron of his Sword, and make Ninepins of them, and in the so<g ref="char:EOLhyphen"/>lemnity of <hi>Skimmington,</hi> they shall be carried in procession, and be reverenced by the scolds of the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own.</p>
+            <p n="7">7. His Coach shall wait on us to <hi>Tyburn,</hi> while we conveigh him thither in a Tumbrel, wee'l bring home his Cloaths in the Boots of it, and have the Caroach cut out to the best ad<g ref="char:EOLhyphen"/>vantage, and bestowed upon young beginners of his Trade <hi>gratis.</hi>
+            </p>
+            <pb n="7" facs="tcp:168762:4"/>
+            <p>But if he will render himself into the hands of Justice, and not stand so stiff on his Pantofles, upon his tryall we may chance to wink on him; but justice is as blind as himself, and spares no body, even as he killed his brother Cob; However we say let him try us, for the Parliaments Pleasure heel never remove, and weele have but one bout at blindmans buff with him, and then good night gaffer. VVe believe he is not now so high in the instep, but that he would be glad to work Pumps to Tenis-Courts: In this we are very favourable to him,</p>
+            <p>For, <q>
+                  <l>This Punishment we think he hath d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>serv'd,</l>
+                  <l>And little better those whom he observ'd.</l>
+                  <l>He is a Traytor, so were all the Nine,</l>
+                  <l>And all that do 'gainst us henceforth combine.</l>
+               </q>
+            </p>
+         </div>
+         <div type="poem">
+            <head>A <hi>HƲE-AND-CRY</hi> or <hi>Pro<g ref="char:EOLhyphen"/>clamation,</hi> after Coll. <hi>Hewson.</hi>
+            </head>
+            <p>
+               <hi>O yes, O yes, O yes.</hi>
+            </p>
+            <lg>
+               <l>IF any person that walks up and down,</l>
+               <l>In City, Country, Village, or in Town,</l>
+               <l>Can of this Lordling certain tydings bring,</l>
+               <l>Him we'le reward with th' R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nsome of a King.</l>
+               <l>That you as well by Person as by fame,</l>
+               <l>May know him when you meet him; first, his Name</l>
+               <l>Was <hi>John</hi> Lord <hi>Hewson,</hi> as men did him call,</l>
+               <l>When he a Sword did wear; but since his fall,</l>
+               <pb n="7" facs="tcp:168762:5"/>
+               <l>It is Blind <hi>Hewson,</hi> and the worst of all,</l>
+               <l>My fear is that he's hidden in a stall:</l>
+               <l>If so, perhaps, having abated Pride,</l>
+               <l>'Stead of a Sword, a Last hangs by his side.</l>
+               <l>But that you may the better him descry,</l>
+               <l>By's aged Person, he hath but one Eye,</l>
+               <l>That being forced out by a forsworn Oath,</l>
+               <l>One added Perjury would drive out both:</l>
+               <l>Instead of a prancing horse whereon he rid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</l>
+               <l>Then he might make a Dog and Bell his Guid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s.</l>
+               <l>In the next place, his head's of greatest note,</l>
+               <l>For it appears to each man's Eye to flote</l>
+               <l>In th' Ayre: I guesse by's shaking's meant,</l>
+               <l>His threatning of the famous Parliament;</l>
+               <l>Or else th' Apprentices, or his intent,</l>
+               <l>Never to joyn with a setled Government:</l>
+               <l>Also it doth denote his various mind,</l>
+               <l>As mutable as <hi>Proteus</hi> or the Wind.</l>
+               <l>So under <hi>Oliver,</hi> and <hi>Dick</hi> Protectors,</l>
+               <l>He was one of the Nations grand Infectors.</l>
+               <l>Was made a Lord, a Colonell, Prince, what not?</l>
+               <l>For Money he would fight for th' Turk God wot.</l>
+               <l>He being something stronger then a Lowse,</l>
+               <l>Might well deserve a Vote in th' upper House.</l>
+               <l>After great <hi>Richard</hi>'s fall he was content,</l>
+               <l>To serve the Long and famous Parliament,</l>
+               <l>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d then the Army; now he'd serve the Devill,</l>
+               <l>If he could free himself from future Evill.</l>
+               <l>What can be Registred of's former fame,</l>
+               <l>But that he was <hi>Sutor ultra Crepidam.</hi>
+               </l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
